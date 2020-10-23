@@ -14,3 +14,5 @@
 # Fase ll
 
 - [Ejercicios BD](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/AnalisisBD_1863305.pdf)
+
+-[Python basico](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/PythonBasico_1863305.ipynb)
