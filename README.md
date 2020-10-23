@@ -1,5 +1,5 @@
 # Mineria_de_datos
-Fase  1:
+# Fase l
 
 [Mapa mental 1]( https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/MapaMental_1_1863305.pdf)
 
@@ -10,3 +10,7 @@ Fase  1:
 [Resumen: Tecnicas](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/Resumenes_1863305.pdf)
 
 [Mapa mental 2](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/MapaMental_2_1863305.pdf)
+
+# Fase ll
+
+[Ejercicios BD](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/AnalisisBD_1863305.pdf)
