@@ -8,3 +8,5 @@ Fase  1:
 [Ejercicios 1: Jupyter](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Ejercicios1_2_003.ipynb)
 
 [Resumen: Tecnicas](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/Resumenes_1863305.pdf)
+
+[Mapa mental 2](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/MapaMental_2_1863305.pdf)
