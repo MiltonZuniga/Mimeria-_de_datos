@@ -18,3 +18,7 @@
 - [Python basico](https://github.com/MiltonZuniga/Mineria_de_datos/blob/master/PythonBasico_1863305.ipynb)
 
 - [Avance 1 PIA](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Avance1-PIA_10_003.pdf)
+
+## Fase lll
+
+- [Avance 2 PIA](https://github.com/Estibalyz/MineriaDeDatos/blob/master/AvancePIA_II_003_10.ipynb)
